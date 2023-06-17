@@ -1,0 +1,14 @@
+.cupcake-img{
+    max-height: 150px;
+    max-width: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.delete-btn:hover{
+    cursor: pointer;
+}
+
+.form-div {
+    padding-bottom: 10px;
+}
